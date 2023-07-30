@@ -6,7 +6,7 @@ Play the song
 Stop the song
 Change the song
 
-# Note : Give music path file in path_file to play the song.
+# Note : Give music path in path_file to play the song.
 
 LinkedIn Post Link :-
 
