@@ -9,5 +9,5 @@ It gives output in :-
 
 Note : Type the given paragraph as fast as you can to get the best result.
 
-LinkedIn Post Link :-
+
 
