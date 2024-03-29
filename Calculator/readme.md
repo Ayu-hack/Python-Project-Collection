@@ -1,4 +1,4 @@
 # Calculator
 
-A simple python calculator programmed using the built-in module Tkinter . This is just the initial code for simple calculator.
+Designed and implemented a Python calculator utilizing the Tkinter built-in module. This code represents the foundational structure of a basic calculator application, serving as an initial iteration.
 
