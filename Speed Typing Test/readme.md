@@ -1,11 +1,6 @@
 # Speed Typing Test
 
-A Command Line based speed typing program for testing speed in python programmming. Using the built-in modules time,randint. This is simple speed typing test program giving result as speed of typing upon total time taken.
-
-It gives output in :-
-1) Total Time elapsed
-2) Your Average Typing Speed 
-3) With a total of 
+A Python program was developed to create a command-line-based speed typing application, utilizing built-in modules such as 'time' and 'randint'. This program serves as a straightforward speed typing test, providing the user with results indicating their typing speed relative to the total time taken.
 
 Note : Type the given paragraph as fast as you can to get the best result.
 
