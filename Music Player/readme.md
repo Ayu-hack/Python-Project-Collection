@@ -1,10 +1,6 @@
 # Music Player
 
-A CMD based music player by python programmming using the built-in modules pygame,random.
-This is simple music player having three basic operations - 
-Play the song
-Stop the song
-Change the song
+Developed a command-line interface (CLI) music player utilizing Python programming language, leveraging built-in modules including pygame and random. This minimalist music player offers fundamental functionalities, including playing, stopping, and changing songs.
 
 # Note : Give music path in path_file to play the song.
 
