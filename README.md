@@ -1,4 +1,4 @@
-# Basic Python projects
+# Python projects
 This folder contains python projects.
 
 Projects :-
